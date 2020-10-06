@@ -10,9 +10,9 @@ slider:
       animation_out : "right"
       # available animation : left, right, up, down
       button:
-        enable : false
-        label : "Postuler maintenant"
-        link : "contact"
+        enable : true
+        label : "Documentation"
+        link : "documentation/covid"
 
     # slider item loop
     - title : "Bienvenue à l’UNF"

@@ -441,7 +441,7 @@ weight = 5
   [[menu.main]]
   parent = "Training"
   name = "Documentation"
-  URL = "docs"
+  URL = "documentation"
   weight = 6
 
 
