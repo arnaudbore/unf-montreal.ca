@@ -198,15 +198,9 @@ hasChildren = true
 
   [[Languages.fr.menu.main]]
   parent = "Votre étude"
-  name = "Logos"
-  URL = "document/logos"
-  weight = 10
-
-  [[Languages.fr.menu.main]]
-  parent = "Votre étude"
   name = "Taux horaire"
   URL = "rate"
-  weight = 11
+  weight = 10
 
 [[Languages.fr.menu.main]]
 weight = 5
@@ -248,6 +242,8 @@ hasChildren = true
   name = "Documentation"
   URL = "documentation"
   weight = 6
+
+
 
 ## English Menu
 [[menu.main]]
@@ -399,8 +395,8 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Your study"
-  name = "Logos"
-  URL = "document/logos"
+  name = "Rates"
+  URL = "rate"
   weight = 10
 
 [[menu.main]]
@@ -443,7 +439,6 @@ weight = 5
   name = "Documentation"
   URL = "documentation"
   weight = 6
-
 
 # footer menu
 

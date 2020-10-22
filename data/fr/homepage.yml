@@ -11,8 +11,8 @@ slider:
       # available animation : left, right, up, down
       button:
         enable : false
-        label : "Postuler maintenant"
-        link : "contact"
+        label : "Plus d'information"
+        link : "documentation/covid"
 
     # slider item loop
     - title : "Bienvenue à l’UNF"
